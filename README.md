@@ -1,6 +1,3 @@
 # Technology
 
-Python 
-Scrapy 
-Xpath
-CSS Selectors
+Python Scrapy Xpath CSS Selectors
