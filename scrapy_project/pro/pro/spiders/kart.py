@@ -1,5 +1,5 @@
 
-#Author: Md. Fazlul Hoque
+#Author: Md.Fazlul Hoque
 #Source: Stackoverflow and answered by the author
 #Source link: https://stackoverflow.com/questions/74508265/how-can-i-access-spiders-file-data-in-items-file-in-scrapy-python/74509844#74509844
 
